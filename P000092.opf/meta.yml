@@ -1,0 +1,35 @@
+ebook_metadata:
+  title: ༄༅། །དབང་བསྐུར་སྤྱི་ལ་འཇུག་པའི་ལག་ལེན་རྣམ་འབྱེད་མདོར་བསྡུས་པ་རབ་གསལ་ཟླ་བའི་མེ་ལོང་ཞེས་བྱ་བ་བཞུགས་སོ།།
+  authors:
+  - མཛད་པ་པོ། པདྨ་གར་དབང་བློ་གྲོས་མཐའ་ཡས།
+  sku: SHE-RTD-012
+  layers:
+  - book_title
+  - author
+  - quotation
+web_metadata:
+  title:
+    en: Tenth Chapter of The Heart Advice of Guru Rinpoche
+    bo: གུ་རུའི་ཞལ་གདམས་སྙིང་གཏམ་ལེའུ་བཅུ་པ་བཞུགས༔
+  collection:
+    en: Treasury of Precious Termas–  Book 24
+    bo: རིན་ཆེན་གཏེར་མཛོད།–  དེབ། ༢༤
+  author:
+    en: Chime Tennyi Yungdrung Lingpa
+    bo: འཆི་མེད་བསྟན་གཉིས་གཡུང་དྲུང་གླིང་པ།
+  pusblisher:
+    en: Shechen Publications
+    bo: ཞེ་ཆེན་བསྟན་གཉིས་དར་རྒྱས་གླིང།
+  sku: SHE-RTD-012
+  category:
+    en: Uncategorized
+    bo: སྡེ་ཚན་མེད་པ།
+  org:
+    bo: Timeless Treasuries
+    en: མཐའ་ཡས་དཔེ་མཛོད།
+  website: http://dharmacloud.tsadra.org
+  aquisition_data: '2019-07-18'
+  filename: SHE-RTD-012.epub
+  description:
+    en: ''
+    bo: ''
