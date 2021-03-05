@@ -1,12 +1,14 @@
-ebook_metadata:
+id: P000092
+initial_creation_type: ebook
+source_metadata:
   title: ༄༅། །དབང་བསྐུར་སྤྱི་ལ་འཇུག་པའི་ལག་ལེན་རྣམ་འབྱེད་མདོར་བསྡུས་པ་རབ་གསལ་ཟླ་བའི་མེ་ལོང་ཞེས་བྱ་བ་བཞུགས་སོ།།
   authors:
   - མཛད་པ་པོ། པདྨ་གར་དབང་བློ་གྲོས་མཐའ་ཡས།
-  sku: SHE-RTD-012
   layers:
   - book_title
   - author
   - quotation
+  id: SHE-RTD-012
 web_metadata:
   title:
     en: Tenth Chapter of The Heart Advice of Guru Rinpoche
